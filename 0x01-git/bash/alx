@@ -1,2 +1,6 @@
+
+echo "ALX school"
 #!/bin/bash
 echo "ALX"
+case  edit in
+esac
