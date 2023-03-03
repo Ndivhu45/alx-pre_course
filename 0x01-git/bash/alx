@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 echo school is so cool
 xx#!/bin/bash
+=======
+
+echo "ALX school"
+#!/bin/bash
+>>>>>>> update_script
 echo "ALX"
+case  edit in
+esac
